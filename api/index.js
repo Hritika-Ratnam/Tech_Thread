@@ -1,6 +1,9 @@
 import express from 'express';
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
+import userRoutes from './routes/user.route.js';
+
+//backend remeber to add .js
 
 dotenv.config();
 
@@ -19,3 +22,5 @@ app.listen(3000, () => {
   console.log('Server is running on port 3000!!!!');
 });
 //the connection string is properly enclosed in single or double quotes.
+
+app.use('/api/user', userRoutes);
