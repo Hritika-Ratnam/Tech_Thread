@@ -6,8 +6,7 @@ import Dashboard from './pages/Dashboard';
 import Projects from './pages/Projects';
 import SignUp from './pages/SignUp';
 import Header from './components/Header';
-import Footer from './components/Footer';
-
+import Footer from './components/footer';
 export default function App() {
   return (
     <BrowserRouter>
