@@ -24,7 +24,7 @@ MongoDB
 1. Clone the repository:
     ```bash
     git clone https://github.com/Hritika-Ratnam/Mern_Blog.git
-    cd Thoughtful-Threads
+    cd MERN-BLOG
     ```
 
 2. Navigate to the `api` directory and install dependencies:
@@ -56,7 +56,7 @@ MongoDB
 
 2. Create a `.env` file in the `api` directory and add the following environment variable:
     ```env
-    REACT_APP_GOOGLE_CLIENT_ID=your_google_client_id
+    REACT_APP_GOOGLE_CLIENT_ID= your_google_client_id
     ```
 
 3. Start the frontend development server:
