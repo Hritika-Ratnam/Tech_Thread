@@ -17,10 +17,9 @@ export default function Home() {
   return (
     <div>
       <div className='flex flex-col gap-6 p-28 px-3 max-w-6xl mx-auto '>
-        <h1 className='text-3xl font-bold lg:text-6xl'>Welcome to my Blog</h1>
+        <h1 className='text-3xl font-bold lg:text-6xl'>Welcome to Tech Thread</h1>
         <p className='text-gray-500 text-xs sm:text-sm'>
-          Here you'll find a variety of articles and tutorials on topics such as
-          web development, software engineering, and programming languages.
+        Welcome to our collection of articles and tutorials, offering valuable resources on web development, software engineering, and programming languages. Whether you're a beginner or seasoned professional, you'll find content on HTML, CSS, JavaScript, front-end frameworks, back-end technologies, responsive design, and more. Learn about software engineering principles, agile practices, DevOps, and Git version control. Explore languages like Python, Java, C++, Go, Rust, and Kotlin to sharpen your coding skills for real-world applications.
         </p>
         <Link
           to='/search'
