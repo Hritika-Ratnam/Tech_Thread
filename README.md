@@ -1,5 +1,5 @@
-# Blog App
-Welcome to Blog App, a full-stack blogging platform designed to offer users a seamless experience in reading, liking, and commenting on blog posts. This application is built using the powerful MERN stack (MongoDB, Express, React, Node.js), with Redux Toolkit and Tailwind CSS to provide a modern, responsive interface.
+# Tech Thread
+Welcome to Tech Thread, a full-stack blogging platform designed to offer users a seamless experience in reading, liking, and commenting on blog posts. This application is built using the powerful MERN stack (MongoDB, Express, React, Node.js), with Redux Toolkit and Tailwind CSS to provide a modern, responsive interface.
 
 ## Key Features
 - **Authentication**: Secure user authentication using JWT and Google OAuth.
@@ -10,7 +10,7 @@ Welcome to Blog App, a full-stack blogging platform designed to offer users a se
 - **Styling**: Designed with Tailwind CSS for a modern and responsive UI.
   
 ## Installation Instructions
-Get started with Blog App by following these simple steps:
+Get started with Tech Thread by following these simple steps:
 
 ### Prerequisites
 
@@ -66,7 +66,7 @@ MongoDB
     
 ## Usage
 
-Once both the backend and frontend servers are running, open your browser and navigate to `http://localhost:5173/` to access Blog App.
+Once both the backend and frontend servers are running, open your browser and navigate to `http://localhost:5173/` to access Tech Thread.
 
 ## Project Structure
 
@@ -85,7 +85,7 @@ Once both the backend and frontend servers are running, open your browser and na
 
 
 ---
-Thank you for exploring Blog App!
+Thank you for exploring Tech Thread!
 
 
 
